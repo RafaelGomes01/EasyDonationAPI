@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "bf918763-0454-4b93-b6bc-5b6c15bad601": {
+      "ProjectGuid": "bf918763-0454-4b93-b6bc-5b6c15bad601",
+      "DisplayName": "EasyDonation.Api",
+      "ColorIndex": 0
+    },
+    "cd8aea7f-9dad-4235-8136-036df40ad467": {
+      "ProjectGuid": "cd8aea7f-9dad-4235-8136-036df40ad467",
+      "DisplayName": "EasyDonation.Infra.Data",
+      "ColorIndex": 1
+    },
+    "ffc8c56a-7685-4383-ac53-34696bea2a50": {
+      "ProjectGuid": "ffc8c56a-7685-4383-ac53-34696bea2a50",
+      "DisplayName": "EasyDonation.Comum",
+      "ColorIndex": 2
+    },
+    "ef7d7782-0e45-4b05-9862-1b8e60cb4ea2": {
+      "ProjectGuid": "ef7d7782-0e45-4b05-9862-1b8e60cb4ea2",
+      "DisplayName": "EasyDonation.Dominio",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

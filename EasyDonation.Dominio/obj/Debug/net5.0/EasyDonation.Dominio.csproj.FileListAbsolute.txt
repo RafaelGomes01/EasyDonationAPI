@@ -1,0 +1,48 @@
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Dominio\bin\Debug\net5.0\EasyDonation.Comum.dll
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.csprojAssemblyReference.cache
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.AssemblyInfo.cs
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Dominio\bin\Debug\net5.0\EasyDonation.Dominio.deps.json
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Dominio\bin\Debug\net5.0\EasyDonation.Dominio.dll
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Dominio\bin\Debug\net5.0\ref\EasyDonation.Dominio.dll
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Dominio\bin\Debug\net5.0\EasyDonation.Dominio.pdb
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Dominio\bin\Debug\net5.0\EasyDonation.Comum.pdb
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.csproj.CopyComplete
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.dll
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Dominio\obj\Debug\net5.0\ref\EasyDonation.Dominio.dll
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.pdb
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.csprojAssemblyReference.cache
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.AssemblyInfo.cs
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.dll
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Dominio\obj\Debug\net5.0\ref\EasyDonation.Dominio.dll
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.pdb
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Dominio\bin\Debug\net5.0\EasyDonation.Dominio.deps.json
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Dominio\bin\Debug\net5.0\EasyDonation.Dominio.dll
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Dominio\bin\Debug\net5.0\ref\EasyDonation.Dominio.dll
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Dominio\bin\Debug\net5.0\EasyDonation.Dominio.pdb
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Dominio\bin\Debug\net5.0\EasyDonation.Comum.dll
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Dominio\bin\Debug\net5.0\EasyDonation.Comum.pdb
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.csproj.CopyComplete
+C:\Users\rafam\Desktop\Sistema%20de%20Doa%C3%A7%C3%A3o\01 - Back End\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.dll
+C:\Users\rafam\Desktop\Sistema%20de%20Doa%C3%A7%C3%A3o\01 - Back End\EasyDonation.Dominio\obj\Debug\net5.0\ref\EasyDonation.Dominio.dll
+C:\Users\rafam\Desktop\Sistema%20de%20Doa%C3%A7%C3%A3o\01 - Back End\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.pdb
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Dominio\bin\Debug\net5.0\EasyDonation.Dominio.deps.json
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Dominio\bin\Debug\net5.0\EasyDonation.Dominio.dll
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Dominio\bin\Debug\net5.0\ref\EasyDonation.Dominio.dll
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Dominio\bin\Debug\net5.0\EasyDonation.Dominio.pdb
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Dominio\bin\Debug\net5.0\EasyDonation.Comum.dll
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Dominio\bin\Debug\net5.0\EasyDonation.Comum.pdb
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.csproj.AssemblyReference.cache
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.AssemblyInfo.cs
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.csproj.CopyComplete
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.dll
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Dominio\obj\Debug\net5.0\ref\EasyDonation.Dominio.dll
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Dominio\obj\Debug\net5.0\EasyDonation.Dominio.pdb

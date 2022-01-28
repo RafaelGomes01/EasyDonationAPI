@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VCYL/HMq/2E62fQEHl3wqQMtU5RgTKj6o7t2oqW9fr5oa3Dfqb/u/KIBjL+LRAXlpnKsxH5jgkvjO1lpIV31oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafam\\Desktop\\Projeto\\EasyDonation.Comum\\EasyDonation.Comum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafam\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
+    "C:\\Users\\rafam\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Comum\bin\Release\net5.0\EasyDonation.Comum.deps.json
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Comum\bin\Release\net5.0\EasyDonation.Comum.dll
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Comum\bin\Release\net5.0\ref\EasyDonation.Comum.dll
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Comum\bin\Release\net5.0\EasyDonation.Comum.pdb
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Comum\obj\Release\net5.0\EasyDonation.Comum.csproj.AssemblyReference.cache
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Comum\obj\Release\net5.0\EasyDonation.Comum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Comum\obj\Release\net5.0\EasyDonation.Comum.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Comum\obj\Release\net5.0\EasyDonation.Comum.AssemblyInfo.cs
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Comum\obj\Release\net5.0\EasyDonation.Comum.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Comum\obj\Release\net5.0\EasyDonation.Comum.dll
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Comum\obj\Release\net5.0\ref\EasyDonation.Comum.dll
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Comum\obj\Release\net5.0\EasyDonation.Comum.pdb

@@ -1,0 +1,63 @@
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Infra.Data.deps.json
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Infra.Data.runtimeconfig.json
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Infra.Data.runtimeconfig.dev.json
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Infra.Data.dll
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\bin\Debug\net5.0\ref\EasyDonation.Infra.Data.dll
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Infra.Data.pdb
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Comum.dll
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Dominio.dll
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Dominio.pdb
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Comum.pdb
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.csprojAssemblyReference.cache
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.AssemblyInfo.cs
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.csproj.CopyComplete
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.dll
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\obj\Debug\net5.0\ref\EasyDonation.Infra.Data.dll
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.pdb
+C:\Users\rafam\Desktop\EasyDonation\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.genruntimeconfig.cache
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Infra.Data.deps.json
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Infra.Data.runtimeconfig.json
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Infra.Data.runtimeconfig.dev.json
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Infra.Data.dll
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\bin\Debug\net5.0\ref\EasyDonation.Infra.Data.dll
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Infra.Data.pdb
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Comum.dll
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Dominio.dll
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Dominio.pdb
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Comum.pdb
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.csprojAssemblyReference.cache
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.AssemblyInfo.cs
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.csproj.CopyComplete
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.dll
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\obj\Debug\net5.0\ref\EasyDonation.Infra.Data.dll
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.pdb
+C:\Users\rafam\Desktop\EasyDonation\01 - Back End\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.genruntimeconfig.cache
+C:\Users\rafam\Desktop\Sistema%20de%20Doa%C3%A7%C3%A3o\01 - Back End\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.dll
+C:\Users\rafam\Desktop\Sistema%20de%20Doa%C3%A7%C3%A3o\01 - Back End\EasyDonation.Infra.Data\obj\Debug\net5.0\ref\EasyDonation.Infra.Data.dll
+C:\Users\rafam\Desktop\Sistema%20de%20Doa%C3%A7%C3%A3o\01 - Back End\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.pdb
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Infra.Data.deps.json
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Infra.Data.runtimeconfig.json
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Infra.Data.runtimeconfig.dev.json
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Infra.Data.dll
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\bin\Debug\net5.0\ref\EasyDonation.Infra.Data.dll
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Infra.Data.pdb
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Comum.dll
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Dominio.dll
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Dominio.pdb
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\bin\Debug\net5.0\EasyDonation.Comum.pdb
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.AssemblyInfo.cs
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.csproj.CopyComplete
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.dll
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\obj\Debug\net5.0\ref\EasyDonation.Infra.Data.dll
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.pdb
+C:\Users\rafam\Desktop\Projeto\EasyDonation.Infra.Data\obj\Debug\net5.0\EasyDonation.Infra.Data.genruntimeconfig.cache
